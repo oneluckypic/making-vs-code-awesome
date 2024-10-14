@@ -50,6 +50,17 @@ Ctrl + ~ to open Terminal
   * settings: format on save - WARNING: Autosave doesn't format, you have to do Cmd/Ctrl + S to autoformat.
 
 # Extensions
+
+* INSTALLED Extensions
+  * amVim
+  * autoDocstring - Python Docstrings
+  * Material Icon Theme
+  * Ocean Green
+  * Prettier
+  * Pylance
+  * Python
+  * Python Debugger
+
 * NOTE: You can disable extensions per workspace. vs code can get slow with too many extensions
 * NOTE: .vscode/ for workspace can hold recommended extensions for the project. open command pallete and type recommended extensions to modify
 
